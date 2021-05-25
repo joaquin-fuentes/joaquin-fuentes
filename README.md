@@ -6,4 +6,5 @@
 - ⌨ Y muchisimo la tecnología
 - 🔭 Me encuentro en busqueda laboral para sumar experiencia 
 - 💻 Actualmente estoy aprendiendo react y tratando de aplicarlo a proyectos personales
-- 📫 Cómo contactarme: joaquin_eas@hotmail.com - 3816097754
+- 📫 Cómo contactarme: joaquin.fuentes1327@gmail.com
+-     📱  Número de celular: 3816097754
