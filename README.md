@@ -8,3 +8,4 @@
 - 💻 Actualmente estoy aprendiendo react y tratando de aplicarlo a proyectos personales
 - 📫 Cómo contactarme: joaquin.fuentes1327@gmail.com
 - 📱  Número de celular: 3816097754
+- 💼 Portafolio:  https://joaquin-fuentes.herokuapp.com/
