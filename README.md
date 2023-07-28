@@ -6,3 +6,4 @@
 - ⌨ Y muchisimo la tecnología
 - 📫 Cómo contactarme: joaquin.fuentes1327@gmail.com
 - 📱  Número de celular: 3816097754
+- 💼 Mi portafolio: https://portafolio-joaquinfuentes.netlify.app/  
