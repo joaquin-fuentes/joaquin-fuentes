@@ -1,4 +1,4 @@
- Hola!! 👋
+## Hola!! 👋
 - 😁 Me llamo Joaquín!
 - 👓 tengo 29 años
 - 😎 Soy de Tucumán - Argentina
@@ -7,3 +7,14 @@
 - 📫 Cómo contactarme: joaquin.fuentes1327@gmail.com
 - 📱  Número de celular: 3816097754
 - 💼 Mi portafolio: https://joaquin-fuentes.github.io/miportafolio
+- 
+## Habilidades
+- HTML
+- CSS
+- JAVASCRIPT
+- NODE JS
+- REACT JS
+- MONGODB
+- SQL
+- Creacion y consumo de apis
+- Metodologías ágiles (SCRUM)
