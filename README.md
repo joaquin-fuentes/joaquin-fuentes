@@ -1,6 +1,6 @@
-## Hola!! 👋
-- 😁 Me llamo Joaquín!
-- 👓 tengo 29 años
+## Bienvenido!! 👋
+- 😁 Me llamo Joaquín Fuentes!
+- 👓 Tengo 29 años
 - 😎 Soy de Tucumán - Argentina
 - 🎸 Me gusta la música
 - ⌨ Y muchisimo la tecnología
