@@ -1,20 +1,27 @@
 ## Bienvenido!! 👋
-- 😁 Me llamo Joaquín Fuentes!
+- 😁 Me llamo Joaquín Fuentes! 
 - 👓 Tengo 30 años
-- 😎 Soy de Tucumán - Argentina
+- 🎓 Soy Técnico Universitario en Programación
+- 😎 Vivo en Tucumán - Argentina
 - 🎸 Me gusta la música
 - ⌨ Y muchisimo la tecnología
 - 📫 Cómo contactarme: joaquin.fuentes1327@gmail.com
 - 📱  Número de celular: 3816097754
-- 💼 Mi portafolio: https://joaquin-fuentes.github.io/miportafolio
+- 💼 Mi portafolio: https://joaquinfuentes.site
 - 
 ## Habilidades
 - HTML
 - CSS
 - JAVASCRIPT
+- TYPESCRIPT
 - NODE JS
+- EXPRESS
 - REACT JS
+- REDUX
+- ZUSTAND
 - MONGODB
 - SQL
+- BOOTSTRAP
+- TAILWIND
 - Creacion y consumo de apis
 - Metodologías ágiles (SCRUM)
