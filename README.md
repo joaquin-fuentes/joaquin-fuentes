@@ -1,6 +1,6 @@
 ## Bienvenido!! 👋
 - 😁 Me llamo Joaquín Fuentes! 
-- 👓 Tengo 30 años
+- 👓 Tengo 31 años
 - 🎓 Soy Técnico Universitario en Programación
 - 😎 Vivo en Tucumán - Argentina
 - 🎸 Me gusta la música
@@ -19,6 +19,7 @@
 - REACT JS
 - REDUX
 - ZUSTAND
+- NEXT JS
 - MONGODB
 - SQL
 - BOOTSTRAP
