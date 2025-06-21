@@ -37,7 +37,7 @@ En mi [sitio web](https://joaquinfuentes.site) encontrarás proyectos reales que
 ## 🔐 Actividad en GitHub  
 Trabajo en dos perfiles, para diferenciar ambientes personales y corporativos:
 
-- **Personal**: [github.com/tu_usuario](https://github.com/joaquin-fuentes) – proyectos open source y repos públicos.  
+- **Personal**: [github.com/joaquin-fuentes](https://github.com/joaquin-fuentes) – proyectos open source y repos públicos.  
 - **Corporativo**: [github.com/joaquin‑fuentes‑dev](https://github.com/joaquin-fuentes-dev) – donde tengo mas contribuciones de los últimos meses.  
 
 ---
