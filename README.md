@@ -26,7 +26,7 @@ SCRUM y desarrollo ágil
 ---
 
 ## 🚀 Portafolio Destacado  
-En mi [sitio web](https://joaquinfuentes.site) encontrarás proyectos reales que desarrollé con:
+En mi [sitio web](https://joaquinfuentes.vercel.app) encontrarás proyectos reales que desarrollé con:
 - Frontend con React/Next.js combinando Tailwind y Bootstrap  
 - Backend Node.js + Express (APIs REST)  
 - Bases MongoDB y SQL  
